@@ -2,4 +2,4 @@
 It is a simple and resonsive Website.
 
 ## Desktop View
-![Default View](images/main.png)
+![Default View](Output Images/Desktop view.png)
